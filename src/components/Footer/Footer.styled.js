@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const FooterStyled = styled.footer`
-  background-color: gold;
+  background-color: #87cefa;
   border-top: 1px solid black;
   padding-top: 20px;
   padding-bottom: 20px;
