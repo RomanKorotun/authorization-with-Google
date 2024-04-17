@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/authorization-with-Google/static/css/main.7cda0caf.css",
-    "main.js": "/authorization-with-Google/static/js/main.d6bc9efc.js",
+    "main.js": "/authorization-with-Google/static/js/main.5350ad43.js",
     "static/js/906.b65d2447.chunk.js": "/authorization-with-Google/static/js/906.b65d2447.chunk.js",
-    "static/js/319.596da740.chunk.js": "/authorization-with-Google/static/js/319.596da740.chunk.js",
+    "static/js/319.e9f39bcb.chunk.js": "/authorization-with-Google/static/js/319.e9f39bcb.chunk.js",
     "static/js/145.b97bb3a7.chunk.js": "/authorization-with-Google/static/js/145.b97bb3a7.chunk.js",
     "static/js/500.a66be14a.chunk.js": "/authorization-with-Google/static/js/500.a66be14a.chunk.js",
     "static/media/waterfall.jpg": "/authorization-with-Google/static/media/waterfall.998f9f5f72e762da32b3.jpg",
     "static/media/sprite.svg": "/authorization-with-Google/static/media/sprite.9dbeaa72174f9290bf6a99912c635843.svg",
     "index.html": "/authorization-with-Google/index.html",
     "main.7cda0caf.css.map": "/authorization-with-Google/static/css/main.7cda0caf.css.map",
-    "main.d6bc9efc.js.map": "/authorization-with-Google/static/js/main.d6bc9efc.js.map",
+    "main.5350ad43.js.map": "/authorization-with-Google/static/js/main.5350ad43.js.map",
     "906.b65d2447.chunk.js.map": "/authorization-with-Google/static/js/906.b65d2447.chunk.js.map",
-    "319.596da740.chunk.js.map": "/authorization-with-Google/static/js/319.596da740.chunk.js.map",
+    "319.e9f39bcb.chunk.js.map": "/authorization-with-Google/static/js/319.e9f39bcb.chunk.js.map",
     "145.b97bb3a7.chunk.js.map": "/authorization-with-Google/static/js/145.b97bb3a7.chunk.js.map",
     "500.a66be14a.chunk.js.map": "/authorization-with-Google/static/js/500.a66be14a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7cda0caf.css",
-    "static/js/main.d6bc9efc.js"
+    "static/js/main.5350ad43.js"
   ]
 }
