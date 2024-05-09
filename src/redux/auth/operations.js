@@ -22,7 +22,6 @@ export const register = createAsyncThunk("register", async (data, thunkAPI) => {
 });
 
 export const logout = createAsyncThunk("logout", async (_, thunkAPI) => {
-  console.log("logout");
   try {
     await axios.post("/auth/logout");
     clearHeadersToken();
